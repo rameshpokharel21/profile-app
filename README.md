@@ -53,7 +53,7 @@ cd <your-profile-repo-name>
 
 ## 🎏 Quick Demo
 
-    👉 https://profile-app-gold.vercel.app/
+        `https://profile-app-gold.vercel.app/`
 
 
 
