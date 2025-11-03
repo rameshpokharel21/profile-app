@@ -1,7 +1,7 @@
 # 🌟 Github Repositories List
 
 
-A  **React** web app that displays you public Github repositories with links.
+A  **React** web app that displays you public Github repositories with links.  
 
 ---
 
@@ -18,10 +18,11 @@ A  **React** web app that displays you public Github repositories with links.
 
 
 **React 19**: UI framework
-**React Query (TanStack Query)**: Data fetching and caching
-**Axios**: API request
-**Css Modules**: Styling
-**Vite**: Development and build setup
+
+**React Query (TanStack Query)**: Data fetching and caching  
+**Axios**: API request  
+**Css Modules**: Styling  
+**Vite**: Development and build setup  
 
 ---
 
@@ -29,31 +30,30 @@ A  **React** web app that displays you public Github repositories with links.
 
 
  1. Clone the Repository 
-``bash
-git clone https://github.com/<your-username>/<your-profile-repo-name>.git
-cd <your-profile-repo-name>
+```bash
+git clone https://github.com/<your-username>/<your-profile-repo-name>.git  
+cd <your-profile-repo-name>  
 
 
 2. Install dependencies
-``bash
-    npm install
+
+    Run `npm install` to install dependencies.  
 
 3. Environmental Variables
-    Create a .env file in project root with following
-    ``bash
-    VITE_GITHUB_USERNAME=your-github-username
+    Create a .env file in project root with following  
+    ```bash  
+    VITE_GITHUB_USERNAME=your-github-username  
 
-4. Run the App
+4. Run the App  
 
-    ``bash
-        npm run dev
+   
+    Run application using `npm run dev`  
 
-5. Open your browser at
+5. Open your browser at  
     👉 http://localhost:5173
 
 
 🎏 Quick Demo(in progress)
-
 
     👉 Live Demo on Vercel
 
