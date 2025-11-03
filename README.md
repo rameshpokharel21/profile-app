@@ -49,10 +49,11 @@ cd <your-profile-repo-name>
 5. Open your browser at  
     👉 http://localhost:5173
 
+---
 
-## 🎏 Quick Demo(in progress)
+## 🎏 Quick Demo
 
-    👉 Live Demo on https://profile-app-gold.vercel.app/
+    👉 https://profile-app-gold.vercel.app/
 
 
 
