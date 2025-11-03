@@ -33,7 +33,7 @@ A  **React** web app that displays you public Github repositories with links.
 ```bash
 git clone https://github.com/<your-username>/<your-profile-repo-name>.git  
 cd <your-profile-repo-name>  
-
+```
 
 2. Install dependencies
 
@@ -43,10 +43,8 @@ cd <your-profile-repo-name>
     Create a .env file in project root with following  
     ```bash  
     VITE_GITHUB_USERNAME=your-github-username  
-
+    ```
 4. Run the App  
-
-   
     Run application using `npm run dev`  
 
 5. Open your browser at  
