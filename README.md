@@ -18,7 +18,6 @@ A  **React** web app that displays you public Github repositories with links.
 
 
 **React 19**: UI framework
-
 **React Query (TanStack Query)**: Data fetching and caching  
 **Axios**: API request  
 **Css Modules**: Styling  
@@ -51,9 +50,9 @@ cd <your-profile-repo-name>
     👉 http://localhost:5173
 
 
-🎏 Quick Demo(in progress)
+## 🎏 Quick Demo(in progress)
 
-    👉 Live Demo on Vercel
+    👉 Live Demo on https://profile-app-gold.vercel.app/
 
 
 
