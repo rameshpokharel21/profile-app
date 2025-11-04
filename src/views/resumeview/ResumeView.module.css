@@ -1,0 +1,25 @@
+
+.container{
+    width: 100vw;
+    max-width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    overflow-x: hidden;
+    
+}
+
+.iFrame{
+    width: 100vw;
+    height: 100vh;
+    border: none;
+    display: block;
+    background-color: #f9f9f9;
+}
+
+
+
+@media(max-width: 480px){
+    .iFrame{
+        height: 60vh;
+    }
+}
