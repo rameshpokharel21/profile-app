@@ -2,7 +2,7 @@
 
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom'
 import './App.css'
-import HomeView from './views/HomeView'
+import HomeView from './views/homeview/HomeView'
 import AboutView from './views/AboutView'
 import ProjectView from "./views/projectview/ProjectView"
 
