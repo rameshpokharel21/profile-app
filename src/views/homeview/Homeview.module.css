@@ -23,6 +23,7 @@
     max-width: 400px;
     text-align: center;
     justify-self: center;
+    margin: 0 auto;
 }
 .profileCard h1{
     font-size: 1.5rem;
