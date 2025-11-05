@@ -20,7 +20,7 @@ const ProjectView = () => {
         <div className={styles.myComponent}>
             {data.map(repo => (
                 <div key = {repo.id} className={styles.repoBox}>
-                    <h2>{repo.name}</h2>
+                    <h2 className={styles.repoName}>{repo.name}</h2>
                     <p>{repo.description || "No Description"}</p>
                     <a href={repo.html_url} target="_blank" rel="onopener noreferrer">View Repo</a>
             
