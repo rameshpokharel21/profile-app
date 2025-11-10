@@ -2,16 +2,20 @@
 .navbar{
     background-color: #1e1e1e;
     padding: 1rem;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
+    position: sticky;  
+    justify-content: space-between; 
+    margin-top: 0;
+    
     width: 100%;
+    
+    z-index: 1000;
+   
 }
 
 .navContainer{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    /* flex-wrap: unwrap; */
     gap: 2rem;
 }
 
@@ -34,8 +38,8 @@
 
 @media(max-width: 600px){
     .navContainer{
-        flex-direction: column;
-        align-items: center;
+        /* flex-direction: column; */
+        /* align-items: center; */
     }
 
     .navLink{
